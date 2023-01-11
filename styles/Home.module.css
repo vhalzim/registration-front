@@ -86,7 +86,7 @@
 }
 
 .card:hover,
-.card:focus,
+.card:focus,Home.module
 .card:active {
   color: #0070f3;
   border-color: #0070f3;
@@ -127,3 +127,4 @@
     filter: invert(1);
   }
 }
+
